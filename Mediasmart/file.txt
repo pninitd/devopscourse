@@ -1,0 +1,3746 @@
+[
+  {
+    "Peer39 Category ":"Arts and Entertainment",
+    "Category ID":54302.0,
+    "TREE_LEVEL":0.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Arts and Entertainment : Awards Shows",
+    "Category ID":54172.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Arts and Entertainment : Books and Literature",
+    "Category ID":54019.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Arts and Entertainment : Celebrities",
+    "Category ID":53974.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Arts and Entertainment : Celebrities : Royal Baby",
+    "Category ID":54344.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Arts and Entertainment : Comics and Animation",
+    "Category ID":54092.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Arts and Entertainment : DiningOut",
+    "Category ID":54086.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Arts and Entertainment : Movies and Videos",
+    "Category ID":54085.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Arts and Entertainment : Music",
+    "Category ID":53973.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Arts and Entertainment : Online Graphics & Themes",
+    "Category ID":54193.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Arts and Entertainment : Satirical News",
+    "Category ID":54348.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Arts and Entertainment : Television",
+    "Category ID":54333.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Arts and Entertainment : VisualArts",
+    "Category ID":54087.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Automotive",
+    "Category ID":54106.0,
+    "TREE_LEVEL":0.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Automotive : Buying and Selling",
+    "Category ID":54054.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Automotive : Insurance",
+    "Category ID":54016.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Automotive : Maintenance",
+    "Category ID":54109.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Automotive : Manufacturers",
+    "Category ID":54057.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Automotive : Manufacturers : Acura",
+    "Category ID":53946.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Automotive : Manufacturers : Audi",
+    "Category ID":53947.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Automotive : Manufacturers : BMW",
+    "Category ID":54029.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Automotive : Manufacturers : Buick",
+    "Category ID":54130.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Automotive : Manufacturers : Cadillac",
+    "Category ID":53948.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Automotive : Manufacturers : Chrysler",
+    "Category ID":53945.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Automotive : Manufacturers : Dodge",
+    "Category ID":54027.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Automotive : Manufacturers : Ford",
+    "Category ID":54025.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Automotive : Manufacturers : GMC",
+    "Category ID":54131.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Automotive : Manufacturers : Honda",
+    "Category ID":54011.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Automotive : Manufacturers : Infiniti",
+    "Category ID":53949.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Automotive : Manufacturers : Jaguar",
+    "Category ID":54132.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Automotive : Manufacturers : Kia",
+    "Category ID":54133.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Automotive : Manufacturers : LandRover",
+    "Category ID":53950.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Automotive : Manufacturers : Lexus",
+    "Category ID":53951.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Automotive : Manufacturers : Lincoln",
+    "Category ID":54134.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Automotive : Manufacturers : Mazda",
+    "Category ID":54135.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Automotive : Manufacturers : Mercedes-Benz",
+    "Category ID":54028.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Automotive : Manufacturers : Mitsubishi",
+    "Category ID":54013.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Automotive : Manufacturers : Nissan",
+    "Category ID":54010.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Automotive : Manufacturers : Porsche",
+    "Category ID":53952.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Automotive : Manufacturers : Scion",
+    "Category ID":54136.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Automotive : Manufacturers : Smart",
+    "Category ID":54137.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Automotive : Manufacturers : Subaru",
+    "Category ID":54030.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Automotive : Manufacturers : Toyota",
+    "Category ID":54026.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Automotive : Manufacturers : Volkswagen",
+    "Category ID":54012.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Automotive : Manufacturers : Volvo",
+    "Category ID":53953.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Automotive : Vehicles",
+    "Category ID":54107.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Automotive : Vehicles : Electric",
+    "Category ID":54496.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Automotive : Vehicles : Hybrids",
+    "Category ID":54157.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Automotive : Vehicles : Luxury Cars",
+    "Category ID":54117.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Automotive : Vehicles : MinVans",
+    "Category ID":53943.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Automotive : Vehicles : Motorcycles",
+    "Category ID":54108.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Automotive : Vehicles : Passenger Cars",
+    "Category ID":53944.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Automotive : Vehicles : Sports Cars",
+    "Category ID":53955.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Automotive : Vehicles : SUVs",
+    "Category ID":53956.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Business",
+    "Category ID":54336.0,
+    "TREE_LEVEL":0.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Business : Agriculture",
+    "Category ID":54181.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Business : EconomicCrisis",
+    "Category ID":53961.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Business : Economics",
+    "Category ID":54083.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Business : SmallBusiness",
+    "Category ID":54084.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Careers",
+    "Category ID":54111.0,
+    "TREE_LEVEL":0.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Custom",
+    "Category ID":54501.0,
+    "TREE_LEVEL":0.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Education",
+    "Category ID":53977.0,
+    "TREE_LEVEL":0.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Education : College and University",
+    "Category ID":54088.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Environment",
+    "Category ID":53978.0,
+    "TREE_LEVEL":0.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Environment : Conservation",
+    "Category ID":54089.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Environment : Energy",
+    "Category ID":53979.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Environment : GlobalWarming",
+    "Category ID":54090.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Environment : GreenLiving",
+    "Category ID":53980.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Finance",
+    "Category ID":54498.0,
+    "TREE_LEVEL":0.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Finance : Credit and Loans",
+    "Category ID":53999.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Finance : Credit and Loans : Automotive",
+    "Category ID":54031.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Finance : Credit and Loans : Education",
+    "Category ID":54037.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Finance : Credit and Loans : Home",
+    "Category ID":54040.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Finance : Crypto Currency",
+    "Category ID":54511.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Finance : Insurance",
+    "Category ID":54148.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Finance : Insurance : Health Insurance",
+    "Category ID":54149.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Finance : Insurance : Life Insurance",
+    "Category ID":54154.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Finance : Investing",
+    "Category ID":53997.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Finance : Investing : ETFs",
+    "Category ID":54009.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Finance : Investing : Forex",
+    "Category ID":54041.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Finance : Investing : RetirementPlanning",
+    "Category ID":54023.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Finance : Investing : Stocks",
+    "Category ID":54015.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Finance : Taxes",
+    "Category ID":54008.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Food and Beverage",
+    "Category ID":54007.0,
+    "TREE_LEVEL":0.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Food and Beverage : AlcoholicDrinks",
+    "Category ID":54062.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Food and Beverage : Baking",
+    "Category ID":54035.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Food and Beverage : Cooking",
+    "Category ID":54094.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Food and Beverage : HealthyEating",
+    "Category ID":54036.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Food and Beverage : Recipes",
+    "Category ID":54118.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Food and Beverage : Vegetarian",
+    "Category ID":53959.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Health",
+    "Category ID":54042.0,
+    "TREE_LEVEL":0.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Health : Alternative Medicine",
+    "Category ID":54362.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Health : Cannabis",
+    "Category ID":54494.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Health : Cannabis : B2B",
+    "Category ID":54492.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Health : Cannabis : B2C",
+    "Category ID":54493.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Health : Conditions and Diseases",
+    "Category ID":54044.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Health : Conditions and Diseases : Allergies",
+    "Category ID":54334.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Health : Conditions and Diseases : Cancer",
+    "Category ID":54332.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Health : Conditions and Diseases : Coronavirus",
+    "Category ID":54527.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Health : Conditions and Diseases : Heart Diseases",
+    "Category ID":54335.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Health : Dental",
+    "Category ID":54095.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Health : Diet and Fitness",
+    "Category ID":54303.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Health : Men",
+    "Category ID":54022.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Health : Mental",
+    "Category ID":54096.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Health : Optical",
+    "Category ID":54043.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Health : SexualHealth",
+    "Category ID":54018.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Health : Smoking",
+    "Category ID":54539.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Health : Smoking : Vape",
+    "Category ID":54540.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Health : Treatment",
+    "Category ID":54097.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Health : Women",
+    "Category ID":54055.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Home and Garden",
+    "Category ID":54045.0,
+    "TREE_LEVEL":0.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Home and Garden : Cleaning and Laundry",
+    "Category ID":54098.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Home and Garden : Decorating",
+    "Category ID":54032.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Home and Garden : Do It Yourself ",
+    "Category ID":53960.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Home and Garden : Home Theater",
+    "Category ID":54201.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Home and Garden : Lawn and Garden",
+    "Category ID":54046.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Home and Garden : Remodeling & Construction",
+    "Category ID":54198.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Internet",
+    "Category ID":54077.0,
+    "TREE_LEVEL":0.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Internet : Apps and Toolbars",
+    "Category ID":54021.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Internet : Blind Inventory",
+    "Category ID":54156.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Internet : Comments",
+    "Category ID":53969.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Internet : Malicious Activity Sites",
+    "Category ID":54328.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Internet : ModeratedUGC",
+    "Category ID":54004.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Internet : Parked Domains ",
+    "Category ID":54145.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Internet : Redirected Pages",
+    "Category ID":54337.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Internet : UGC",
+    "Category ID":54003.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Internet : UGC : Forums",
+    "Category ID":54121.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Internet : UGC : SocialNetworks",
+    "Category ID":54304.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Internet : UGC : SocialNetworks : Facebook",
+    "Category ID":54146.0,
+    "TREE_LEVEL":3.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Internet : UGC : VideoPhotoSharing",
+    "Category ID":54120.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Internet : Webmail",
+    "Category ID":53942.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Internet : Webmail : PremiumWebmail",
+    "Category ID":54129.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"News",
+    "Category ID":54267.0,
+    "TREE_LEVEL":0.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"News : Africa and MiddleEast",
+    "Category ID":54050.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"News : AsiaPacific",
+    "Category ID":54101.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"News : Australia and NewZealand",
+    "Category ID":54102.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"News : Breaking News",
+    "Category ID":54591.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"News : Commuting",
+    "Category ID":54038.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"News : Europe",
+    "Category ID":54049.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"News : Government",
+    "Category ID":54039.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"News : HealthCare",
+    "Category ID":54182.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"News : LatinAmerica",
+    "Category ID":54051.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"News : Local",
+    "Category ID":54119.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"News : Politics",
+    "Category ID":54099.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"News : Transportation",
+    "Category ID":54033.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"News : US and Canada",
+    "Category ID":54100.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"News : Weather",
+    "Category ID":54305.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Other",
+    "Category ID":54105.0,
+    "TREE_LEVEL":0.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Parenting and Kids",
+    "Category ID":54103.0,
+    "TREE_LEVEL":0.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Parenting and Kids : Babies",
+    "Category ID":54104.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Parenting and Kids : Pregnancy",
+    "Category ID":54052.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Pets",
+    "Category ID":54075.0,
+    "TREE_LEVEL":0.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Pets : Cats",
+    "Category ID":54360.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Pets : Dogs",
+    "Category ID":54361.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Predicted Viral Content",
+    "Category ID":54349.0,
+    "TREE_LEVEL":0.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"RealEstate",
+    "Category ID":54053.0,
+    "TREE_LEVEL":0.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"RealEstate : Commercial",
+    "Category ID":54115.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"RealEstate : Rental",
+    "Category ID":54142.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"RealEstate : Residential",
+    "Category ID":54143.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"RealEstate : Sales",
+    "Category ID":54116.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Recreation and Games",
+    "Category ID":54063.0,
+    "TREE_LEVEL":0.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Recreation and Games : Board and Card Games",
+    "Category ID":54364.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Recreation and Games : Gambling",
+    "Category ID":54064.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Recreation and Games : Hobbies and Interests",
+    "Category ID":53992.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Recreation and Games : Hobbies and Interests : Genealogy",
+    "Category ID":54207.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Recreation and Games : Online Games",
+    "Category ID":54191.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Recreation and Games : Toys",
+    "Category ID":54329.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Reference",
+    "Category ID":54192.0,
+    "TREE_LEVEL":0.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Reference : Maps",
+    "Category ID":54194.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Relationships",
+    "Category ID":54091.0,
+    "TREE_LEVEL":0.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Relationships : Singles and Dating",
+    "Category ID":53981.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Relationships : Weddings",
+    "Category ID":54122.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Sciences",
+    "Category ID":54076.0,
+    "TREE_LEVEL":0.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Sciences : Astronomy",
+    "Category ID":54189.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Sciences : Biology",
+    "Category ID":54188.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Sciences : Botany",
+    "Category ID":54190.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Sciences : Earth Science",
+    "Category ID":54367.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Sciences : Engineering",
+    "Category ID":54363.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Sciences : Mathematics",
+    "Category ID":54366.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Seasonal",
+    "Category ID":54123.0,
+    "TREE_LEVEL":0.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Seasonal : 3 Kings",
+    "Category ID":54186.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Seasonal : Australia Day",
+    "Category ID":54464.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Seasonal : Back to School",
+    "Category ID":53976.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Seasonal : Beer Festivals",
+    "Category ID":54200.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Seasonal : BlackFriday_CyberMonday",
+    "Category ID":54331.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Seasonal : Carnival_Mardi Gras",
+    "Category ID":54185.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Seasonal : Christmas",
+    "Category ID":54125.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Seasonal : Easter",
+    "Category ID":54138.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Seasonal : Fathers Day",
+    "Category ID":54113.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Seasonal : French Open",
+    "Category ID":54187.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Seasonal : Golden Week",
+    "Category ID":54465.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Seasonal : Grand National",
+    "Category ID":54401.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Seasonal : Halloween",
+    "Category ID":54020.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Seasonal : Holiday Cooking",
+    "Category ID":54370.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Seasonal : Holiday Shopping",
+    "Category ID":54371.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Seasonal : Holiday Toys",
+    "Category ID":54372.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Seasonal : Holiday Travel",
+    "Category ID":54373.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Seasonal : Independence Day",
+    "Category ID":54315.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Seasonal : Jewish Holidays",
+    "Category ID":54184.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Seasonal : March Madness",
+    "Category ID":54180.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Seasonal : Melbourne Cup",
+    "Category ID":54406.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Seasonal : Mothers Day",
+    "Category ID":53968.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Seasonal : New Years",
+    "Category ID":54140.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Seasonal : Rugby World Cup",
+    "Category ID":54326.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Seasonal : Sailing Events",
+    "Category ID":54152.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Seasonal : Super Bowl",
+    "Category ID":53954.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Seasonal : Thanksgiving",
+    "Category ID":54124.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Seasonal : Tour de France",
+    "Category ID":54317.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Seasonal : UEFA European Championship",
+    "Category ID":54346.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Seasonal : Valentines Day",
+    "Category ID":53957.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Seasonal : Wimbledon",
+    "Category ID":54175.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Seasonal : Winter Olympics",
+    "Category ID":54159.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Seasonal : World Cup",
+    "Category ID":54176.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Shopping",
+    "Category ID":53985.0,
+    "TREE_LEVEL":0.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Shopping : Coupons",
+    "Category ID":54034.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Society",
+    "Category ID":54056.0,
+    "TREE_LEVEL":0.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Society : Holidays and Celebrations",
+    "Category ID":53995.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Society : Law and Ethics",
+    "Category ID":53994.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Society : Religion and Spirituality",
+    "Category ID":54005.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Sports",
+    "Category ID":54065.0,
+    "TREE_LEVEL":0.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Sports : Baseball",
+    "Category ID":54068.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Sports : Basketball",
+    "Category ID":54069.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Sports : Boxing",
+    "Category ID":54070.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Sports : Cricket",
+    "Category ID":54352.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Sports : Cycling",
+    "Category ID":54183.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Sports : Football",
+    "Category ID":54060.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Sports : Golf",
+    "Category ID":54071.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Sports : Hockey",
+    "Category ID":54061.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Sports : HorseRacing",
+    "Category ID":54074.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Sports : Martial Arts",
+    "Category ID":54365.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Sports : Motorsports",
+    "Category ID":54058.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Sports : Olympics",
+    "Category ID":53967.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Sports : OutdoorRecreation",
+    "Category ID":54199.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Sports : OutdoorRecreation : Fishing",
+    "Category ID":54197.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Sports : Rugby",
+    "Category ID":54205.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Sports : Running",
+    "Category ID":54206.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Sports : Soccer",
+    "Category ID":54073.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Sports : Surfing",
+    "Category ID":54128.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Sports : Swimming and Diving",
+    "Category ID":54368.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Sports : Tennis",
+    "Category ID":54072.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Sports : WinterSports",
+    "Category ID":54078.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Sports : WinterSports : Skiing",
+    "Category ID":53991.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Sports : Wrestling",
+    "Category ID":54196.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Style and Fashion",
+    "Category ID":54079.0,
+    "TREE_LEVEL":0.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Style and Fashion : Beauty",
+    "Category ID":54203.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Style and Fashion : BodyArt",
+    "Category ID":54059.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Style and Fashion : Clothing and Accessories",
+    "Category ID":54080.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Style and Fashion : Cosmetics",
+    "Category ID":54110.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Style and Fashion : HairCare",
+    "Category ID":54081.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Style and Fashion : SkinCare",
+    "Category ID":54082.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Technology",
+    "Category ID":54112.0,
+    "TREE_LEVEL":0.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Technology : Android",
+    "Category ID":54327.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Technology : Apple",
+    "Category ID":54114.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Technology : Apple : iPhones",
+    "Category ID":54497.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Technology : Cameras & Camcorders",
+    "Category ID":54204.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Technology : Cloud Computing",
+    "Category ID":54179.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Technology : Computers",
+    "Category ID":53972.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Technology : Computers : Hardware",
+    "Category ID":54093.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Technology : Computers : Software",
+    "Category ID":53982.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Technology : Enterprise Computing",
+    "Category ID":54177.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Technology : GreenTech",
+    "Category ID":54171.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Technology : Home Entertainment",
+    "Category ID":54509.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Technology : Home Entertainment : Media Streaming Devices",
+    "Category ID":54512.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Technology : Home Entertainment : Media Streaming Services",
+    "Category ID":54510.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Technology : Internet of Things",
+    "Category ID":54519.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Technology : Internet of Things : Connected Cars",
+    "Category ID":54521.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Technology : Internet of Things : Smart Cities",
+    "Category ID":54518.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Technology : Internet of Things : Smart Home",
+    "Category ID":54520.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Technology : Internet of Things : Wearable Technology",
+    "Category ID":54522.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Technology : Mobile",
+    "Category ID":53983.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Technology : Tablets",
+    "Category ID":54495.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Technology : VideoGames",
+    "Category ID":53984.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Technology : Web and Graphic Design",
+    "Category ID":54160.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Travel",
+    "Category ID":54066.0,
+    "TREE_LEVEL":0.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Travel : Air",
+    "Category ID":54067.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Travel : Car Rental",
+    "Category ID":54174.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Travel : Cruise",
+    "Category ID":53998.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Travel : Destinations",
+    "Category ID":53970.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Travel : Destinations : Dubai",
+    "Category ID":54411.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Travel : Destinations : Europe",
+    "Category ID":54150.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Travel : Destinations : Europe : Croatia",
+    "Category ID":54407.0,
+    "TREE_LEVEL":3.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Travel : Destinations : Europe : France",
+    "Category ID":54408.0,
+    "TREE_LEVEL":3.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Travel : Destinations : Europe : Germany",
+    "Category ID":54409.0,
+    "TREE_LEVEL":3.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Travel : Destinations : Europe : Greece",
+    "Category ID":54416.0,
+    "TREE_LEVEL":3.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Travel : Destinations : Europe : Italy",
+    "Category ID":54412.0,
+    "TREE_LEVEL":3.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Travel : Destinations : Europe : Poland",
+    "Category ID":54415.0,
+    "TREE_LEVEL":3.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Travel : Destinations : Europe : Portugal",
+    "Category ID":54410.0,
+    "TREE_LEVEL":3.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Travel : Destinations : Florida",
+    "Category ID":53971.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Travel : Destinations : Hawaii",
+    "Category ID":54127.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Travel : Destinations : Japan",
+    "Category ID":54414.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Travel : Destinations : Las Vegas",
+    "Category ID":54126.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Travel : Destinations : New York",
+    "Category ID":54316.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Travel : Destinations : South Africa",
+    "Category ID":54413.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Travel : Destinations : Southern California",
+    "Category ID":54141.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Travel : Hotels and Accommodation",
+    "Category ID":54173.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Travel : Theme",
+    "Category ID":53996.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Travel : Theme : Adventure",
+    "Category ID":54014.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Travel : Theme : Beach",
+    "Category ID":53993.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Travel : Theme : Family Travel",
+    "Category ID":54153.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Travel : Theme : Winter",
+    "Category ID":54017.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Travel : Theme Parks ",
+    "Category ID":54139.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Negative",
+    "Category ID":null,
+    "TREE_LEVEL":null,
+    "Cost":null
+  },
+  {
+    "Peer39 Category ":"Negative",
+    "Category ID":54047.0,
+    "TREE_LEVEL":0.0,
+    "Cost":0.05
+  },
+  {
+    "Peer39 Category ":"Negative : Accidents",
+    "Category ID":54002.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.05
+  },
+  {
+    "Peer39 Category ":"Negative : Adult & Explicit Sexual Content",
+    "Category ID":54558.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.05
+  },
+  {
+    "Peer39 Category ":"Negative : Adult & Explicit Sexual Content : GARM Low Risk",
+    "Category ID":54600.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.05
+  },
+  {
+    "Peer39 Category ":"Negative : Adult & Explicit Sexual Content : GARM Medium Risk",
+    "Category ID":54592.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.05
+  },
+  {
+    "Peer39 Category ":"Negative : Alcohol",
+    "Category ID":53964.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.05
+  },
+  {
+    "Peer39 Category ":"Negative : Arms & Ammunition",
+    "Category ID":54561.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.05
+  },
+  {
+    "Peer39 Category ":"Negative : Arms & Ammunition : GARM Low Risk",
+    "Category ID":54584.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.05
+  },
+  {
+    "Peer39 Category ":"Negative : Arms & Ammunition : GARM Medium Risk",
+    "Category ID":54601.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.05
+  },
+  {
+    "Peer39 Category ":"Negative : Controversial Subjects",
+    "Category ID":54369.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.05
+  },
+  {
+    "Peer39 Category ":"Negative : Crime & Harmful acts",
+    "Category ID":54559.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.05
+  },
+  {
+    "Peer39 Category ":"Negative : Crime & Harmful acts : GARM Low Risk",
+    "Category ID":54585.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.05
+  },
+  {
+    "Peer39 Category ":"Negative : Crime & Harmful acts : GARM Medium Risk",
+    "Category ID":54593.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.05
+  },
+  {
+    "Peer39 Category ":"Negative : Death",
+    "Category ID":54024.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.05
+  },
+  {
+    "Peer39 Category ":"Negative : Death, Injury or Military Conflict",
+    "Category ID":54568.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.05
+  },
+  {
+    "Peer39 Category ":"Negative : Death, Injury or Military Conflict : GARM Low Risk",
+    "Category ID":54599.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.05
+  },
+  {
+    "Peer39 Category ":"Negative : Death, Injury or Military Conflict : GARM Medium Risk",
+    "Category ID":54594.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.05
+  },
+  {
+    "Peer39 Category ":"Negative : Debated Sensitive Social Issues",
+    "Category ID":54578.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.05
+  },
+  {
+    "Peer39 Category ":"Negative : Debated Sensitive Social Issues : GARM Low Risk",
+    "Category ID":54602.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.05
+  },
+  {
+    "Peer39 Category ":"Negative : Debated Sensitive Social Issues : GARM Medium Risk",
+    "Category ID":54586.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.05
+  },
+  {
+    "Peer39 Category ":"Negative : Disasters",
+    "Category ID":54048.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.05
+  },
+  {
+    "Peer39 Category ":"Negative : Drugs",
+    "Category ID":53989.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.05
+  },
+  {
+    "Peer39 Category ":"Negative : Fake & Partisan News",
+    "Category ID":54208.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.05
+  },
+  {
+    "Peer39 Category ":"Negative : Gambling",
+    "Category ID":54202.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.05
+  },
+  {
+    "Peer39 Category ":"Negative : Hate speech",
+    "Category ID":54563.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.05
+  },
+  {
+    "Peer39 Category ":"Negative : Hate speech : GARM Low Risk",
+    "Category ID":54595.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.05
+  },
+  {
+    "Peer39 Category ":"Negative : Hate speech : GARM Medium Risk",
+    "Category ID":54587.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.05
+  },
+  {
+    "Peer39 Category ":"Negative : Illegal Drugs_Tobacco_e-cigarettes_Vaping_Alcohol",
+    "Category ID":54570.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.05
+  },
+  {
+    "Peer39 Category ":"Negative : Illegal Drugs_Tobacco_e-cigarettes_Vaping_Alcohol : GARM Low Risk",
+    "Category ID":54598.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.05
+  },
+  {
+    "Peer39 Category ":"Negative : Illegal Drugs_Tobacco_e-cigarettes_Vaping_Alcohol : GARM Medium Risk",
+    "Category ID":54603.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.05
+  },
+  {
+    "Peer39 Category ":"Negative : Negative News",
+    "Category ID":53958.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.05
+  },
+  {
+    "Peer39 Category ":"Negative : Obscenity and Profanity",
+    "Category ID":54569.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.05
+  },
+  {
+    "Peer39 Category ":"Negative : Obscenity and Profanity : GARM Low Risk",
+    "Category ID":54596.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.05
+  },
+  {
+    "Peer39 Category ":"Negative : Obscenity and Profanity : GARM Medium Risk",
+    "Category ID":54604.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.05
+  },
+  {
+    "Peer39 Category ":"Negative : Online piracy",
+    "Category ID":54562.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.05
+  },
+  {
+    "Peer39 Category ":"Negative : Online piracy : GARM Low Risk",
+    "Category ID":54588.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.05
+  },
+  {
+    "Peer39 Category ":"Negative : Online piracy : GARM Medium Risk",
+    "Category ID":54597.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.05
+  },
+  {
+    "Peer39 Category ":"Negative : Spam or Harmful Content",
+    "Category ID":54571.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.05
+  },
+  {
+    "Peer39 Category ":"Negative : Spam or Harmful Content : GARM Low Risk",
+    "Category ID":54589.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.05
+  },
+  {
+    "Peer39 Category ":"Negative : Spam or Harmful Content : GARM Medium Risk",
+    "Category ID":54605.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.05
+  },
+  {
+    "Peer39 Category ":"Negative : Terrorism",
+    "Category ID":54560.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.05
+  },
+  {
+    "Peer39 Category ":"Negative : Terrorism : GARM Low Risk",
+    "Category ID":54590.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.05
+  },
+  {
+    "Peer39 Category ":"Negative : Terrorism : GARM Medium Risk",
+    "Category ID":54606.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.05
+  },
+  {
+    "Peer39 Category ":"Negative : Tobacco",
+    "Category ID":53963.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.05
+  },
+  {
+    "Peer39 Category ":"Negative Industry",
+    "Category ID":null,
+    "TREE_LEVEL":null,
+    "Cost":null
+  },
+  {
+    "Peer39 Category ":"Negative Industry",
+    "Category ID":54556.0,
+    "TREE_LEVEL":0.0,
+    "Cost":0.05
+  },
+  {
+    "Peer39 Category ":"Negative Industry : Airline",
+    "Category ID":54554.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.05
+  },
+  {
+    "Peer39 Category ":"Negative Industry : Automotive",
+    "Category ID":54555.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.05
+  },
+  {
+    "Peer39 Category ":"Negative Industry : Clothing",
+    "Category ID":54553.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.05
+  },
+  {
+    "Peer39 Category ":"Negative Industry : Coronavirus",
+    "Category ID":54550.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.05
+  },
+  {
+    "Peer39 Category ":"Negative Industry : Finance",
+    "Category ID":54549.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.05
+  },
+  {
+    "Peer39 Category ":"Negative Industry : Oil",
+    "Category ID":54552.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.05
+  },
+  {
+    "Peer39 Category ":"Negative Industry : Pharmaceutical",
+    "Category ID":54545.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.05
+  },
+  {
+    "Peer39 Category ":"Negative Industry : Travel",
+    "Category ID":54551.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.05
+  },
+  {
+    "Peer39 Category ":"Safe From",
+    "Category ID":null,
+    "TREE_LEVEL":null,
+    "Cost":null
+  },
+  {
+    "Peer39 Category ":"Safe from Accidents",
+    "Category ID":54459.0,
+    "TREE_LEVEL":0.0,
+    "Cost":0.05
+  },
+  {
+    "Peer39 Category ":"Safe from Adult & Explicit Sexual Content",
+    "Category ID":54565.0,
+    "TREE_LEVEL":0.0,
+    "Cost":0.05
+  },
+  {
+    "Peer39 Category ":"Safe from Alcohol",
+    "Category ID":53988.0,
+    "TREE_LEVEL":0.0,
+    "Cost":0.05
+  },
+  {
+    "Peer39 Category ":"Safe from Arms & Ammunition",
+    "Category ID":54564.0,
+    "TREE_LEVEL":0.0,
+    "Cost":0.05
+  },
+  {
+    "Peer39 Category ":"Safe from Controversial Subjects",
+    "Category ID":54420.0,
+    "TREE_LEVEL":0.0,
+    "Cost":0.05
+  },
+  {
+    "Peer39 Category ":"Safe from Coronavirus",
+    "Category ID":54528.0,
+    "TREE_LEVEL":0.0,
+    "Cost":0.05
+  },
+  {
+    "Peer39 Category ":"Safe from Crime & Harmful acts",
+    "Category ID":54576.0,
+    "TREE_LEVEL":0.0,
+    "Cost":0.05
+  },
+  {
+    "Peer39 Category ":"Safe from Death",
+    "Category ID":54460.0,
+    "TREE_LEVEL":0.0,
+    "Cost":0.05
+  },
+  {
+    "Peer39 Category ":"Safe from Death, Injury or Military Conflict",
+    "Category ID":54577.0,
+    "TREE_LEVEL":0.0,
+    "Cost":0.05
+  },
+  {
+    "Peer39 Category ":"Safe from Debated Sensitive Social Issues",
+    "Category ID":54580.0,
+    "TREE_LEVEL":0.0,
+    "Cost":0.05
+  },
+  {
+    "Peer39 Category ":"Safe from Disasters",
+    "Category ID":54461.0,
+    "TREE_LEVEL":0.0,
+    "Cost":0.05
+  },
+  {
+    "Peer39 Category ":"Safe from Drugs",
+    "Category ID":54000.0,
+    "TREE_LEVEL":0.0,
+    "Cost":0.05
+  },
+  {
+    "Peer39 Category ":"Safe from Gambling",
+    "Category ID":53987.0,
+    "TREE_LEVEL":0.0,
+    "Cost":0.05
+  },
+  {
+    "Peer39 Category ":"Safe from Hate speech",
+    "Category ID":54566.0,
+    "TREE_LEVEL":0.0,
+    "Cost":0.05
+  },
+  {
+    "Peer39 Category ":"Safe from Illegal Drugs\/Tobacco\/e-cigarettes\/Vaping\/Alcohol",
+    "Category ID":54581.0,
+    "TREE_LEVEL":0.0,
+    "Cost":0.05
+  },
+  {
+    "Peer39 Category ":"Safe from Negative Airline Content",
+    "Category ID":54151.0,
+    "TREE_LEVEL":0.0,
+    "Cost":0.05
+  },
+  {
+    "Peer39 Category ":"Safe from Negative Auto Industry Content",
+    "Category ID":54195.0,
+    "TREE_LEVEL":0.0,
+    "Cost":0.05
+  },
+  {
+    "Peer39 Category ":"Safe from Negative Clothing Industry Content",
+    "Category ID":54209.0,
+    "TREE_LEVEL":0.0,
+    "Cost":0.05
+  },
+  {
+    "Peer39 Category ":"Safe from Negative Coronavirus content",
+    "Category ID":54541.0,
+    "TREE_LEVEL":0.0,
+    "Cost":0.05
+  },
+  {
+    "Peer39 Category ":"Safe from Negative Finance Industry",
+    "Category ID":54548.0,
+    "TREE_LEVEL":0.0,
+    "Cost":0.05
+  },
+  {
+    "Peer39 Category ":"Safe from Negative News",
+    "Category ID":53986.0,
+    "TREE_LEVEL":0.0,
+    "Cost":0.05
+  },
+  {
+    "Peer39 Category ":"Safe from Negative Oil Industry Content",
+    "Category ID":53965.0,
+    "TREE_LEVEL":0.0,
+    "Cost":0.05
+  },
+  {
+    "Peer39 Category ":"Safe from Negative Pharmaceutical Industry Content",
+    "Category ID":54544.0,
+    "TREE_LEVEL":0.0,
+    "Cost":0.05
+  },
+  {
+    "Peer39 Category ":"Safe from Negative Travel Industry Content",
+    "Category ID":54210.0,
+    "TREE_LEVEL":0.0,
+    "Cost":0.05
+  },
+  {
+    "Peer39 Category ":"Safe from Obscenity and Profanity",
+    "Category ID":54572.0,
+    "TREE_LEVEL":0.0,
+    "Cost":0.05
+  },
+  {
+    "Peer39 Category ":"Safe from Online piracy",
+    "Category ID":54567.0,
+    "TREE_LEVEL":0.0,
+    "Cost":0.05
+  },
+  {
+    "Peer39 Category ":"Safe from Spam & Harmful Content",
+    "Category ID":54579.0,
+    "TREE_LEVEL":0.0,
+    "Cost":0.05
+  },
+  {
+    "Peer39 Category ":"Safe from Terrorism",
+    "Category ID":54575.0,
+    "TREE_LEVEL":0.0,
+    "Cost":0.05
+  },
+  {
+    "Peer39 Category ":"Safe from Tobacco",
+    "Category ID":53962.0,
+    "TREE_LEVEL":0.0,
+    "Cost":0.05
+  },
+  {
+    "Peer39 Category ":"Sentiment",
+    "Category ID":54450.0,
+    "TREE_LEVEL":0.0,
+    "Cost":null
+  },
+  {
+    "Peer39 Category ":"Sentiment : Negative Sentiment",
+    "Category ID":54452.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.17
+  },
+  {
+    "Peer39 Category ":"Sentiment : Neutral Sentiment",
+    "Category ID":54526.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.17
+  },
+  {
+    "Peer39 Category ":"Sentiment : Positive Sentiment",
+    "Category ID":54451.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.17
+  },
+  {
+    "Peer39 Category ":"Page Signal",
+    "Category ID":54583.0,
+    "TREE_LEVEL":0.0,
+    "Cost":null
+  },
+  {
+    "Peer39 Category ":"Page Signal : Ad Clutter",
+    "Category ID":54347.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.05
+  },
+  {
+    "Peer39 Category ":"Page Signal : Ad Count",
+    "Category ID":54319.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.05
+  },
+  {
+    "Peer39 Category ":"Page Signal : Ad Count : High 7+",
+    "Category ID":54323.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.05
+  },
+  {
+    "Peer39 Category ":"Page Signal : Ad Count : Low 1-3",
+    "Category ID":54325.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.05
+  },
+  {
+    "Peer39 Category ":"Page Signal : Ad Count : Medium 4-6",
+    "Category ID":54324.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.05
+  },
+  {
+    "Peer39 Category ":"Page Signal : Ad Viewability Index",
+    "Category ID":54318.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.05
+  },
+  {
+    "Peer39 Category ":"Page Signal : Ad Viewability Index : High",
+    "Category ID":54320.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.05
+  },
+  {
+    "Peer39 Category ":"Page Signal : Ad Viewability Index : Low",
+    "Category ID":54322.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.05
+  },
+  {
+    "Peer39 Category ":"Page Signal : Ad Viewability Index : Medium",
+    "Category ID":54321.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.05
+  },
+  {
+    "Peer39 Category ":"Page Signal : Ad Viewability Index : Very Low",
+    "Category ID":54345.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.05
+  },
+  {
+    "Peer39 Category ":"Page Signal : CRE",
+    "Category ID":53990.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.05
+  },
+  {
+    "Peer39 Category ":"Page Signal : Flash Games",
+    "Category ID":54458.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.05
+  },
+  {
+    "Peer39 Category ":"Page Signal : Free from Apps and Toolbars",
+    "Category ID":53975.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.05
+  },
+  {
+    "Peer39 Category ":"Page Signal : Free From Parked Domains ",
+    "Category ID":54144.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.05
+  },
+  {
+    "Peer39 Category ":"Page Signal : Free from UGC",
+    "Category ID":54001.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.05
+  },
+  {
+    "Peer39 Category ":"Page Signal : Free from UGC Facebook OK",
+    "Category ID":54147.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.05
+  },
+  {
+    "Peer39 Category ":"Page Signal : Free from Unmoderated UGC ",
+    "Category ID":54006.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.05
+  },
+  {
+    "Peer39 Category ":"Page Signal : Home_Index Page",
+    "Category ID":53966.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.05
+  },
+  {
+    "Peer39 Category ":"Page Signal : Login Page",
+    "Category ID":54211.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.05
+  },
+  {
+    "Peer39 Category ":"Page Signal : Mobile Web Page",
+    "Category ID":54158.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.05
+  },
+  {
+    "Peer39 Category ":"Page Signal : Outstream Video Enabled",
+    "Category ID":54582.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.05
+  },
+  {
+    "Peer39 Category ":"Page Signal : Published Within 48 Hours",
+    "Category ID":54351.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.05
+  },
+  {
+    "Peer39 Category ":"Page Signal : Social Media Activity",
+    "Category ID":54353.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.05
+  },
+  {
+    "Peer39 Category ":"Page Signal : Social Media Activity : Above Average",
+    "Category ID":54359.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.05
+  },
+  {
+    "Peer39 Category ":"Page Signal : Social Media Activity : Below Average",
+    "Category ID":54358.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.05
+  },
+  {
+    "Peer39 Category ":"Page Signal : Social Media Activity : High",
+    "Category ID":54356.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.05
+  },
+  {
+    "Peer39 Category ":"Page Signal : Social Media Activity : Low",
+    "Category ID":54354.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.05
+  },
+  {
+    "Peer39 Category ":"Page Signal : Social Media Activity : None",
+    "Category ID":54355.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.05
+  },
+  {
+    "Peer39 Category ":"Page Signal : Social Media Activity : Very High",
+    "Category ID":54357.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.05
+  },
+  {
+    "Peer39 Category ":"Page Signal : Sponsored Content_Native Advertising",
+    "Category ID":54557.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.05
+  },
+  {
+    "Peer39 Category ":"Page Signal : Transparent Inventory",
+    "Category ID":54155.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.05
+  },
+  {
+    "Peer39 Category ":"Page Signal : Video Location",
+    "Category ID":54161.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.05
+  },
+  {
+    "Peer39 Category ":"Page Signal : Video Location : ATF Center",
+    "Category ID":54162.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.05
+  },
+  {
+    "Peer39 Category ":"Page Signal : Video Location : ATF Side",
+    "Category ID":54163.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.05
+  },
+  {
+    "Peer39 Category ":"Page Signal : Video Location : BTF",
+    "Category ID":54164.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.05
+  },
+  {
+    "Peer39 Category ":"Page Signal : Video Size",
+    "Category ID":54165.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.05
+  },
+  {
+    "Peer39 Category ":"Page Signal : Video Size : Large",
+    "Category ID":54166.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.05
+  },
+  {
+    "Peer39 Category ":"Page Signal : Video Size : Medium",
+    "Category ID":54167.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.05
+  },
+  {
+    "Peer39 Category ":"Page Signal : Video Size : Small",
+    "Category ID":54168.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.05
+  },
+  {
+    "Peer39 Category ":"Page Signal : Video Size : X-Large",
+    "Category ID":54178.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.05
+  },
+  {
+    "Peer39 Category ":"Page Signal : Video_Autoplay",
+    "Category ID":54169.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.05
+  },
+  {
+    "Peer39 Category ":"Page Signal : Video_Multiple Players",
+    "Category ID":54170.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.05
+  },
+  {
+    "Peer39 Category ":"Fraud",
+    "Category ID":54312.0,
+    "TREE_LEVEL":0.0,
+    "Cost":0.05
+  },
+  {
+    "Peer39 Category ":"Fraud : Bot Sites_Non-Human traffic",
+    "Category ID":54314.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.05
+  },
+  {
+    "Peer39 Category ":"Fraud : Zero Ads",
+    "Category ID":54313.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.05
+  },
+  {
+    "Peer39 Category ":"Interest",
+    "Category ID":54384.0,
+    "TREE_LEVEL":0.0,
+    "Cost":0.17
+  },
+  {
+    "Peer39 Category ":"Interest : Business Professionals",
+    "Category ID":54385.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.17
+  },
+  {
+    "Peer39 Category ":"Interest : Car Owners",
+    "Category ID":54386.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.17
+  },
+  {
+    "Peer39 Category ":"Interest : Foodies",
+    "Category ID":54387.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.17
+  },
+  {
+    "Peer39 Category ":"Interest : Gift Givers",
+    "Category ID":54388.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.17
+  },
+  {
+    "Peer39 Category ":"Interest : Health Conscious",
+    "Category ID":54389.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.17
+  },
+  {
+    "Peer39 Category ":"Interest : High-End Luxury Spenders",
+    "Category ID":54390.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.17
+  },
+  {
+    "Peer39 Category ":"Interest : Home Owners",
+    "Category ID":54391.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.17
+  },
+  {
+    "Peer39 Category ":"Interest : IT Professionals",
+    "Category ID":54392.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.17
+  },
+  {
+    "Peer39 Category ":"Interest : Job Seekers",
+    "Category ID":54421.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.17
+  },
+  {
+    "Peer39 Category ":"Interest : Men",
+    "Category ID":54393.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.17
+  },
+  {
+    "Peer39 Category ":"Interest : Music Lovers",
+    "Category ID":54394.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.17
+  },
+  {
+    "Peer39 Category ":"Interest : Parents",
+    "Category ID":54499.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.17
+  },
+  {
+    "Peer39 Category ":"Interest : Retirees",
+    "Category ID":54395.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.17
+  },
+  {
+    "Peer39 Category ":"Interest : Students",
+    "Category ID":54396.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.17
+  },
+  {
+    "Peer39 Category ":"Interest : Tech Enthusiasts",
+    "Category ID":54397.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.17
+  },
+  {
+    "Peer39 Category ":"Interest : Tourists",
+    "Category ID":54398.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.17
+  },
+  {
+    "Peer39 Category ":"Interest : Trending Topics",
+    "Category ID":54399.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.17
+  },
+  {
+    "Peer39 Category ":"Interest : Women",
+    "Category ID":54400.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.17
+  },
+  {
+    "Peer39 Category ":"Trends",
+    "Category ID":54350.0,
+    "TREE_LEVEL":0.0,
+    "Cost":0.17
+  },
+  {
+    "Peer39 Category ":"Mobile Apps",
+    "Category ID":54214.0,
+    "TREE_LEVEL":0.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Mobile Apps : App Usage",
+    "Category ID":54339.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Mobile Apps : App Usage : High",
+    "Category ID":54340.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Mobile Apps : App Usage : Low",
+    "Category ID":54342.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Mobile Apps : App Usage : Medium",
+    "Category ID":54341.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Mobile Apps : Content Advisory Rating",
+    "Category ID":54216.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Mobile Apps : Content Advisory Rating : Everyone 4+",
+    "Category ID":54455.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Mobile Apps : Content Advisory Rating : High Maturity 18+",
+    "Category ID":54500.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Mobile Apps : Content Advisory Rating : Kids 18 and Under",
+    "Category ID":54338.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Mobile Apps : Content Advisory Rating : Low Maturity 9+",
+    "Category ID":54456.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Mobile Apps : Content Advisory Rating : Medium Maturity 12+",
+    "Category ID":54457.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Mobile Apps : Content Advisory Rating : Not Rated",
+    "Category ID":54217.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Mobile Apps : Fraudulent Apps",
+    "Category ID":54343.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Mobile Apps : Mobile App Categories",
+    "Category ID":54218.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Mobile Apps : Mobile App Categories : Books & Reference Apps",
+    "Category ID":54219.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Mobile Apps : Mobile App Categories : Business Apps",
+    "Category ID":54220.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Mobile Apps : Mobile App Categories : Catalog Apps",
+    "Category ID":54221.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Mobile Apps : Mobile App Categories : Comics Apps",
+    "Category ID":54222.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Mobile Apps : Mobile App Categories : Education Apps",
+    "Category ID":54223.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Mobile Apps : Mobile App Categories : Entertainment Apps",
+    "Category ID":54224.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Mobile Apps : Mobile App Categories : Finance Apps",
+    "Category ID":54225.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Mobile Apps : Mobile App Categories : Food & Drink Apps",
+    "Category ID":54226.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Mobile Apps : Mobile App Categories : Health & Fitness Apps",
+    "Category ID":54227.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Mobile Apps : Mobile App Categories : House & Home Apps",
+    "Category ID":54378.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Mobile Apps : Mobile App Categories : Lifestyle Apps",
+    "Category ID":54228.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Mobile Apps : Mobile App Categories : Media, Photo & Video Apps",
+    "Category ID":54307.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Mobile Apps : Mobile App Categories : Medical Apps",
+    "Category ID":54229.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Mobile Apps : Mobile App Categories : Mobile Games Apps",
+    "Category ID":54311.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Mobile Apps : Mobile App Categories : Mobile Games Apps : Action Games",
+    "Category ID":54240.0,
+    "TREE_LEVEL":3.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Mobile Apps : Mobile App Categories : Mobile Games Apps : Adventure Games",
+    "Category ID":54241.0,
+    "TREE_LEVEL":3.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Mobile Apps : Mobile App Categories : Mobile Games Apps : Arcade Games",
+    "Category ID":54242.0,
+    "TREE_LEVEL":3.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Mobile Apps : Mobile App Categories : Mobile Games Apps : Board Games",
+    "Category ID":54243.0,
+    "TREE_LEVEL":3.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Mobile Apps : Mobile App Categories : Mobile Games Apps : Card Games",
+    "Category ID":54244.0,
+    "TREE_LEVEL":3.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Mobile Apps : Mobile App Categories : Mobile Games Apps : Casino Games",
+    "Category ID":54246.0,
+    "TREE_LEVEL":3.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Mobile Apps : Mobile App Categories : Mobile Games Apps : Casual Games",
+    "Category ID":54247.0,
+    "TREE_LEVEL":3.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Mobile Apps : Mobile App Categories : Mobile Games Apps : Dice Games",
+    "Category ID":54245.0,
+    "TREE_LEVEL":3.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Mobile Apps : Mobile App Categories : Mobile Games Apps : Educational Games",
+    "Category ID":54253.0,
+    "TREE_LEVEL":3.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Mobile Apps : Mobile App Categories : Mobile Games Apps : Family Games",
+    "Category ID":54248.0,
+    "TREE_LEVEL":3.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Mobile Apps : Mobile App Categories : Mobile Games Apps : Music Games",
+    "Category ID":54249.0,
+    "TREE_LEVEL":3.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Mobile Apps : Mobile App Categories : Mobile Games Apps : Puzzle Games",
+    "Category ID":54250.0,
+    "TREE_LEVEL":3.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Mobile Apps : Mobile App Categories : Mobile Games Apps : Racing Games",
+    "Category ID":54251.0,
+    "TREE_LEVEL":3.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Mobile Apps : Mobile App Categories : Mobile Games Apps : Role Playing Games",
+    "Category ID":54252.0,
+    "TREE_LEVEL":3.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Mobile Apps : Mobile App Categories : Mobile Games Apps : Simulation Games",
+    "Category ID":54254.0,
+    "TREE_LEVEL":3.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Mobile Apps : Mobile App Categories : Mobile Games Apps : Sports Games",
+    "Category ID":54255.0,
+    "TREE_LEVEL":3.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Mobile Apps : Mobile App Categories : Mobile Games Apps : Strategy Games",
+    "Category ID":54256.0,
+    "TREE_LEVEL":3.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Mobile Apps : Mobile App Categories : Mobile Games Apps : Trivia Games",
+    "Category ID":54257.0,
+    "TREE_LEVEL":3.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Mobile Apps : Mobile App Categories : Mobile Games Apps : Word Games",
+    "Category ID":54258.0,
+    "TREE_LEVEL":3.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Mobile Apps : Mobile App Categories : Music & Audio Apps",
+    "Category ID":54230.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Mobile Apps : Mobile App Categories : Navigation & Transportation Apps",
+    "Category ID":54231.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Mobile Apps : Mobile App Categories : News & Magazine Apps",
+    "Category ID":54232.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Mobile Apps : Mobile App Categories : Personalization Apps",
+    "Category ID":54233.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Mobile Apps : Mobile App Categories : Productivity Apps",
+    "Category ID":54234.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Mobile Apps : Mobile App Categories : Shopping Apps",
+    "Category ID":54235.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Mobile Apps : Mobile App Categories : Social & Communication Apps",
+    "Category ID":54306.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Mobile Apps : Mobile App Categories : Sports Apps",
+    "Category ID":54236.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Mobile Apps : Mobile App Categories : Travel Apps",
+    "Category ID":54237.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Mobile Apps : Mobile App Categories : Utility Apps",
+    "Category ID":54238.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Mobile Apps : Mobile App Categories : Weather Apps",
+    "Category ID":54239.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Mobile Apps : Mobile App Quality",
+    "Category ID":54403.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Mobile Apps : Mobile App Quality : High Quality",
+    "Category ID":54404.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Mobile Apps : Mobile App Quality : Low Quality",
+    "Category ID":54405.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Mobile Apps : Negative Apps",
+    "Category ID":54376.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Mobile Apps : Negative Apps : Alcohol",
+    "Category ID":54379.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Mobile Apps : Negative Apps : Copyright Infringement",
+    "Category ID":54374.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Mobile Apps : Negative Apps : Drugs",
+    "Category ID":54380.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Mobile Apps : Negative Apps : Gambling",
+    "Category ID":54381.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Mobile Apps : Negative Apps : Mature",
+    "Category ID":54382.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Mobile Apps : Negative Apps : Mobile Torrent",
+    "Category ID":54375.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Mobile Apps : Negative Apps : Profanity and Hate Speech",
+    "Category ID":54402.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Mobile Apps : Negative Apps : Violence",
+    "Category ID":54383.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Mobile Apps : Popularity",
+    "Category ID":54259.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Mobile Apps : Popularity : High Popularity",
+    "Category ID":54260.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Mobile Apps : Popularity : Low Popularity",
+    "Category ID":54261.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Mobile Apps : Popularity : Medium Popularity",
+    "Category ID":54262.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Mobile Apps : Popularity : Very High Popularity",
+    "Category ID":54263.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Mobile Apps : Price",
+    "Category ID":54212.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Mobile Apps : Price : Free Apps",
+    "Category ID":54213.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Mobile Apps : Price : In-app Purchases",
+    "Category ID":54215.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Mobile Apps : Price : Paid Apps",
+    "Category ID":54308.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Mobile Apps : Top Ranked Apps",
+    "Category ID":54309.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Mobile Apps : Uncertified Apps",
+    "Category ID":54330.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Mobile Apps : User Rating",
+    "Category ID":54264.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Mobile Apps : User Rating : Rated 0-2",
+    "Category ID":54310.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Mobile Apps : User Rating : Rated 3+",
+    "Category ID":54265.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Mobile Apps : User Rating : Rated 4+",
+    "Category ID":54266.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.15
+  },
+  {
+    "Peer39 Category ":"Weather",
+    "Category ID":54268.0,
+    "TREE_LEVEL":0.0,
+    "Cost":0.25
+  },
+  {
+    "Peer39 Category ":"Weather : Alerts",
+    "Category ID":54462.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.25
+  },
+  {
+    "Peer39 Category ":"Weather : Alerts : Avalanche",
+    "Category ID":54463.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.25
+  },
+  {
+    "Peer39 Category ":"Weather : Alerts : Dust Storm",
+    "Category ID":54466.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.25
+  },
+  {
+    "Peer39 Category ":"Weather : Alerts : Extreme Cold",
+    "Category ID":54467.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.25
+  },
+  {
+    "Peer39 Category ":"Weather : Alerts : Fire Danger",
+    "Category ID":54468.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.25
+  },
+  {
+    "Peer39 Category ":"Weather : Alerts : Flood",
+    "Category ID":54469.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.25
+  },
+  {
+    "Peer39 Category ":"Weather : Alerts : Heat Wave",
+    "Category ID":54470.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.25
+  },
+  {
+    "Peer39 Category ":"Weather : Alerts : Heavy Fog",
+    "Category ID":54471.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.25
+  },
+  {
+    "Peer39 Category ":"Weather : Alerts : Hurricane",
+    "Category ID":54472.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.25
+  },
+  {
+    "Peer39 Category ":"Weather : Alerts : Tornado",
+    "Category ID":54475.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.25
+  },
+  {
+    "Peer39 Category ":"Weather : Alerts : Tsunami",
+    "Category ID":54473.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.25
+  },
+  {
+    "Peer39 Category ":"Weather : Alerts : Typhoon",
+    "Category ID":54474.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.25
+  },
+  {
+    "Peer39 Category ":"Weather : Barometric Pressure",
+    "Category ID":54537.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.25
+  },
+  {
+    "Peer39 Category ":"Weather : Barometric Pressure : 950-980 millibars",
+    "Category ID":54534.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.25
+  },
+  {
+    "Peer39 Category ":"Weather : Barometric Pressure : 981-990 millibars",
+    "Category ID":54536.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.25
+  },
+  {
+    "Peer39 Category ":"Weather : Barometric Pressure : 991-1000 millibars",
+    "Category ID":54535.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.25
+  },
+  {
+    "Peer39 Category ":"Weather : Barometric Pressure : 1001-1010 millibars",
+    "Category ID":54529.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.25
+  },
+  {
+    "Peer39 Category ":"Weather : Barometric Pressure : 1011-1013.24 millibars",
+    "Category ID":54530.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.25
+  },
+  {
+    "Peer39 Category ":"Weather : Barometric Pressure : 1013.25 millibars",
+    "Category ID":54531.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.25
+  },
+  {
+    "Peer39 Category ":"Weather : Barometric Pressure : 1013.26-1020 millibars",
+    "Category ID":54532.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.25
+  },
+  {
+    "Peer39 Category ":"Weather : Barometric Pressure : 1021-1030 millibars",
+    "Category ID":54533.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.25
+  },
+  {
+    "Peer39 Category ":"Weather : Barometric Pressure : 1031-1042 millibars",
+    "Category ID":54538.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.25
+  },
+  {
+    "Peer39 Category ":"Weather : Conditions",
+    "Category ID":54269.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.25
+  },
+  {
+    "Peer39 Category ":"Weather : Conditions : Clear",
+    "Category ID":54377.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.25
+  },
+  {
+    "Peer39 Category ":"Weather : Conditions : Cloudy",
+    "Category ID":54272.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.25
+  },
+  {
+    "Peer39 Category ":"Weather : Conditions : Dry",
+    "Category ID":54273.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.25
+  },
+  {
+    "Peer39 Category ":"Weather : Conditions : Hailstorm",
+    "Category ID":54274.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.25
+  },
+  {
+    "Peer39 Category ":"Weather : Conditions : Heavy Rain",
+    "Category ID":54275.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.25
+  },
+  {
+    "Peer39 Category ":"Weather : Conditions : Heavy Snow",
+    "Category ID":54276.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.25
+  },
+  {
+    "Peer39 Category ":"Weather : Conditions : Humid",
+    "Category ID":54277.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.25
+  },
+  {
+    "Peer39 Category ":"Weather : Conditions : Icy",
+    "Category ID":54278.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.25
+  },
+  {
+    "Peer39 Category ":"Weather : Conditions : Partly Cloudy",
+    "Category ID":54279.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.25
+  },
+  {
+    "Peer39 Category ":"Weather : Conditions : Rain",
+    "Category ID":54280.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.25
+  },
+  {
+    "Peer39 Category ":"Weather : Conditions : Snow",
+    "Category ID":54281.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.25
+  },
+  {
+    "Peer39 Category ":"Weather : Conditions : Thunderstorm",
+    "Category ID":54282.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.25
+  },
+  {
+    "Peer39 Category ":"Weather : Conditions : Windy",
+    "Category ID":54283.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.25
+  },
+  {
+    "Peer39 Category ":"Weather : Feels Like Celsius",
+    "Category ID":54481.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.25
+  },
+  {
+    "Peer39 Category ":"Weather : Feels Like Celsius : 1-5",
+    "Category ID":54482.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.25
+  },
+  {
+    "Peer39 Category ":"Weather : Feels Like Celsius : 6-10",
+    "Category ID":54483.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.25
+  },
+  {
+    "Peer39 Category ":"Weather : Feels Like Celsius : 11-15",
+    "Category ID":54437.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.25
+  },
+  {
+    "Peer39 Category ":"Weather : Feels Like Celsius : 16-20",
+    "Category ID":54438.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.25
+  },
+  {
+    "Peer39 Category ":"Weather : Feels Like Celsius : 21-25",
+    "Category ID":54439.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.25
+  },
+  {
+    "Peer39 Category ":"Weather : Feels Like Celsius : 26-30",
+    "Category ID":54440.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.25
+  },
+  {
+    "Peer39 Category ":"Weather : Feels Like Celsius : 31-35",
+    "Category ID":54441.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.25
+  },
+  {
+    "Peer39 Category ":"Weather : Feels Like Celsius : 36+",
+    "Category ID":54442.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.25
+  },
+  {
+    "Peer39 Category ":"Weather : Feels Like Celsius : 42+",
+    "Category ID":54443.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.25
+  },
+  {
+    "Peer39 Category ":"Weather : Feels Like Celsius : Below 0",
+    "Category ID":54444.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.25
+  },
+  {
+    "Peer39 Category ":"Weather : Feels Like Fahrenheit",
+    "Category ID":54484.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.25
+  },
+  {
+    "Peer39 Category ":"Weather : Feels Like Fahrenheit : 30s",
+    "Category ID":54485.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.25
+  },
+  {
+    "Peer39 Category ":"Weather : Feels Like Fahrenheit : 40s",
+    "Category ID":54486.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.25
+  },
+  {
+    "Peer39 Category ":"Weather : Feels Like Fahrenheit : 50s",
+    "Category ID":54487.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.25
+  },
+  {
+    "Peer39 Category ":"Weather : Feels Like Fahrenheit : 60s",
+    "Category ID":54445.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.25
+  },
+  {
+    "Peer39 Category ":"Weather : Feels Like Fahrenheit : 70s",
+    "Category ID":54446.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.25
+  },
+  {
+    "Peer39 Category ":"Weather : Feels Like Fahrenheit : 80s",
+    "Category ID":54488.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.25
+  },
+  {
+    "Peer39 Category ":"Weather : Feels Like Fahrenheit : 90s",
+    "Category ID":54489.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.25
+  },
+  {
+    "Peer39 Category ":"Weather : Feels Like Fahrenheit : 100+",
+    "Category ID":54490.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.25
+  },
+  {
+    "Peer39 Category ":"Weather : Feels Like Fahrenheit : Below 30",
+    "Category ID":54491.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.25
+  },
+  {
+    "Peer39 Category ":"Weather : Flu Activity",
+    "Category ID":54476.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.25
+  },
+  {
+    "Peer39 Category ":"Weather : Flu Activity : Mild",
+    "Category ID":54477.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.25
+  },
+  {
+    "Peer39 Category ":"Weather : Flu Activity : None",
+    "Category ID":54478.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.25
+  },
+  {
+    "Peer39 Category ":"Weather : Flu Activity : Severe",
+    "Category ID":54479.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.25
+  },
+  {
+    "Peer39 Category ":"Weather : Flu Activity : Weak",
+    "Category ID":54480.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.25
+  },
+  {
+    "Peer39 Category ":"Weather : Temperature Celsius",
+    "Category ID":54271.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.25
+  },
+  {
+    "Peer39 Category ":"Weather : Temperature Celsius : 1-5",
+    "Category ID":54300.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.25
+  },
+  {
+    "Peer39 Category ":"Weather : Temperature Celsius : 6-10",
+    "Category ID":54299.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.25
+  },
+  {
+    "Peer39 Category ":"Weather : Temperature Celsius : 11-15",
+    "Category ID":54298.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.25
+  },
+  {
+    "Peer39 Category ":"Weather : Temperature Celsius : 16-20",
+    "Category ID":54297.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.25
+  },
+  {
+    "Peer39 Category ":"Weather : Temperature Celsius : 21-25",
+    "Category ID":54296.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.25
+  },
+  {
+    "Peer39 Category ":"Weather : Temperature Celsius : 26-30",
+    "Category ID":54295.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.25
+  },
+  {
+    "Peer39 Category ":"Weather : Temperature Celsius : 31-35",
+    "Category ID":54294.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.25
+  },
+  {
+    "Peer39 Category ":"Weather : Temperature Celsius : 36+",
+    "Category ID":54293.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.25
+  },
+  {
+    "Peer39 Category ":"Weather : Temperature Celsius : Below 0",
+    "Category ID":54301.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.25
+  },
+  {
+    "Peer39 Category ":"Weather : Temperature Fahrenheit",
+    "Category ID":54270.0,
+    "TREE_LEVEL":1.0,
+    "Cost":0.25
+  },
+  {
+    "Peer39 Category ":"Weather : Temperature Fahrenheit : 30s",
+    "Category ID":54291.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.25
+  },
+  {
+    "Peer39 Category ":"Weather : Temperature Fahrenheit : 40s",
+    "Category ID":54290.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.25
+  },
+  {
+    "Peer39 Category ":"Weather : Temperature Fahrenheit : 50s",
+    "Category ID":54289.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.25
+  },
+  {
+    "Peer39 Category ":"Weather : Temperature Fahrenheit : 60s",
+    "Category ID":54288.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.25
+  },
+  {
+    "Peer39 Category ":"Weather : Temperature Fahrenheit : 70s",
+    "Category ID":54287.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.25
+  },
+  {
+    "Peer39 Category ":"Weather : Temperature Fahrenheit : 80s",
+    "Category ID":54286.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.25
+  },
+  {
+    "Peer39 Category ":"Weather : Temperature Fahrenheit : 90s",
+    "Category ID":54285.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.25
+  },
+  {
+    "Peer39 Category ":"Weather : Temperature Fahrenheit : 100+",
+    "Category ID":54284.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.25
+  },
+  {
+    "Peer39 Category ":"Weather : Temperature Fahrenheit : Below 30",
+    "Category ID":54292.0,
+    "TREE_LEVEL":2.0,
+    "Cost":0.25
+  }
+]

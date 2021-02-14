@@ -1,0 +1,267 @@
+1611560030398	geckodriver	INFO	Listening on 127.0.0.1:58726
+1611560082272	geckodriver	INFO	Listening on 127.0.0.1:58914
+1611560392061	geckodriver	INFO	Listening on 127.0.0.1:59209
+1611560393074	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qz/x4tq3l3d4750dsmvlvk9kt440000gn/T/rust_mozprofilebFy9dZ"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611560395845	Marionette	INFO	Listening on port 59239
+1611560395891	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: Image (https://ad.doubleclick.net/favicon.ico?ad=300x250&ad_box_=1&adnet=1&showad=1&size=250x250) wait timeout: did not return within 800ms
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-01-25, line 1: Error: TypeError: Network request timed out
+1611560431619	Marionette	INFO	Stopped listening on port 59239
+JavaScript error: https://middycdn-a.akamaihd.net/sd/apps/middy/middy-desktop-3.0.23.js, line 1: TypeError: window.adblockDetector is undefined
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611560467997	geckodriver	INFO	Listening on 127.0.0.1:59849
+1611560469012	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qz/x4tq3l3d4750dsmvlvk9kt440000gn/T/rust_mozprofileFU5BKk"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611560471217	Marionette	INFO	Listening on port 59860
+1611560471320	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: Image (https://ad.doubleclick.net/favicon.ico?ad=300x250&ad_box_=1&adnet=1&showad=1&size=250x250) wait timeout: did not return within 800ms
+JavaScript error: , line 0: uncaught exception: undefined
+1611560548395	Marionette	INFO	Stopped listening on port 59860
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611594070328	geckodriver	INFO	Listening on 127.0.0.1:53386
+1611594071319	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qz/x4tq3l3d4750dsmvlvk9kt440000gn/T/rust_mozprofileiYu7f2"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611594074846	Marionette	INFO	Listening on port 53398
+1611594074921	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: Image (https://ad.doubleclick.net/favicon.ico?ad=300x250&ad_box_=1&adnet=1&showad=1&size=250x250) wait timeout: did not return within 800ms
+JavaScript error: https://tpc.googlesyndication.com/sodar/Enqz_20U.html, line 11: uncaught exception: 7
+1611594092043	Marionette	INFO	Stopped listening on port 53398
+JavaScript error: https://middycdn-a.akamaihd.net/sd/apps/middy/middy-desktop-3.0.23.js, line 1: TypeError: window.adblockDetector is undefined
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611594121688	geckodriver	INFO	Listening on 127.0.0.1:53902
+1611594122697	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qz/x4tq3l3d4750dsmvlvk9kt440000gn/T/rust_mozprofileZ4Gbrd"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611594125357	Marionette	INFO	Listening on port 53931
+1611594125413	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: Image (https://ad.doubleclick.net/favicon.ico?ad=300x250&ad_box_=1&adnet=1&showad=1&size=250x250) wait timeout: did not return within 800ms
+1611594232240	Marionette	INFO	Stopped listening on port 53931
+1611594997914	geckodriver	INFO	Listening on 127.0.0.1:54546
+1611594998921	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qz/x4tq3l3d4750dsmvlvk9kt440000gn/T/rust_mozprofilek4bU2K"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611595002423	Marionette	INFO	Listening on port 54557
+1611595002502	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: Image (https://ad.doubleclick.net/favicon.ico?ad=300x250&ad_box_=1&adnet=1&showad=1&size=250x250) wait timeout: did not return within 800ms
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-01-25, line 1: Error: TypeError: Network request timed out
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-01-25, line 1: Error: TypeError: Network request timed out
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-01-25, line 1: Error: TypeError: Network request timed out
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-01-25, line 1: Error: TypeError: Network request timed out
+JavaScript error: https://middycdn-a.akamaihd.net/sd/apps/middy/middy-desktop-3.0.23.js, line 1: TypeError: window.adblockDetector is undefined
+1611595037166	Marionette	INFO	Stopped listening on port 54557
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611595050291	geckodriver	INFO	Listening on 127.0.0.1:55111
+1611595051321	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qz/x4tq3l3d4750dsmvlvk9kt440000gn/T/rust_mozprofileGtBCUa"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611595054668	Marionette	INFO	Listening on port 55123
+1611595054753	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: Image (https://ad.doubleclick.net/favicon.ico?ad=300x250&ad_box_=1&adnet=1&showad=1&size=250x250) wait timeout: did not return within 800ms
+1611595080783	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1611595080792	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://middycdn-a.akamaihd.net/sd/apps/middy/middy-desktop-3.0.23.js, line 1: TypeError: window.adblockDetector is undefined
+1611595093490	Marionette	INFO	Stopped listening on port 55123
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611596673777	geckodriver	INFO	Listening on 127.0.0.1:60873
+1611596674587	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qz/x4tq3l3d4750dsmvlvk9kt440000gn/T/rust_mozprofileVgOCxV"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611596680762	Marionette	INFO	Listening on port 60907
+1611596680879	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: Image (https://ad.doubleclick.net/favicon.ico?ad=300x250&ad_box_=1&adnet=1&showad=1&size=250x250) wait timeout: did not return within 800ms
+JavaScript error: , line 0: uncaught exception: undefined
+1611596696435	Marionette	INFO	Stopped listening on port 60907
+JavaScript error: https://www.gstatic.com/_/mss/boq-translate/_/js/k=boq-translate.TranslateWebserverUi.en_US.MVUNgh6lVY4.es5.O/am=IAo/d=1/excm=_b,_tp,mainview/ed=1/dg=0/wt=2/ct=zgms/rs=ANkVxDld8qYmFSjeUI2d5wg3VmAbXhkbTg/m=_b,_tp, line 457: NS_ERROR_NOT_INITIALIZED: 
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611598622440	geckodriver	INFO	Listening on 127.0.0.1:53029
+1611598623451	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qz/x4tq3l3d4750dsmvlvk9kt440000gn/T/rust_mozprofilei4RKAU"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611598627046	Marionette	INFO	Listening on port 53061
+1611598627105	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-01-25, line 1: Error: TypeError: Network request timed out
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-01-25, line 1: Error: TypeError: Network request timed out
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-01-25, line 1: Error: TypeError: Network request timed out
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-01-25, line 1: Error: TypeError: Network request timed out
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-01-25, line 1: Error: TypeError: Network request timed out
+1611598658862	Marionette	INFO	Stopped listening on port 53061
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-T6Q59G, line 757: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: , line 0: uncaught exception: undefined
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611598906998	geckodriver	INFO	Listening on 127.0.0.1:54749
+1611598908049	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qz/x4tq3l3d4750dsmvlvk9kt440000gn/T/rust_mozprofile4GOxOm"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611598911458	Marionette	INFO	Listening on port 54782
+1611598911538	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: Image (https://ad.doubleclick.net/favicon.ico?ad=300x250&ad_box_=1&adnet=1&showad=1&size=250x250) wait timeout: did not return within 800ms
+1611598925953	Marionette	INFO	Stopped listening on port 54782
+JavaScript error: https://tpc.googlesyndication.com/sodar/Enqz_20U.html, line 35: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-T6Q59G, line 757: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1031: Error: Sqlite.jsm has been shutdown. Cannot open connection to: /var/folders/qz/x4tq3l3d4750dsmvlvk9kt440000gn/T/rust_mozprofile4GOxOm/protections.sqlite
+JavaScript error: , line 0: uncaught exception: undefined
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611598954925	geckodriver	INFO	Listening on 127.0.0.1:55477
+1611598955937	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qz/x4tq3l3d4750dsmvlvk9kt440000gn/T/rust_mozprofilek2OqP3"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611598958690	Marionette	INFO	Listening on port 55506
+1611598958756	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: Image (https://ad.doubleclick.net/favicon.ico?ad=300x250&ad_box_=1&adnet=1&showad=1&size=250x250) wait timeout: did not return within 800ms
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-01-25, line 1: Error: TypeError: Network request timed out
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-01-25, line 1: Error: TypeError: Network request timed out
+1611598973468	Marionette	INFO	Stopped listening on port 55506
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-T6Q59G, line 757: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: , line 0: uncaught exception: undefined
+1611599884980	geckodriver	INFO	Listening on 127.0.0.1:60732
+1611599885988	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qz/x4tq3l3d4750dsmvlvk9kt440000gn/T/rust_mozprofileFufJuG"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611599889629	Marionette	INFO	Listening on port 60760
+1611599889760	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611599892960	Marionette	INFO	Stopped listening on port 60760
+1611600199262	geckodriver	INFO	Listening on 127.0.0.1:62480
+1611600200269	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qz/x4tq3l3d4750dsmvlvk9kt440000gn/T/rust_mozprofileDSfvVh"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611600204007	Marionette	INFO	Listening on port 62515
+1611600204134	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611600209806	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1611600209807	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://www.ynet.co.il/home/0,7340,L-8,00.html, line 1: ReferenceError: osdlfm is not defined
+JavaScript error: https://www.ynet.co.il/home/0,7340,L-8,00.html, line 1: ReferenceError: osdlfm is not defined
+JavaScript error: https://www.ynet.co.il/home/0,7340,L-8,00.html, line 1: ReferenceError: osdlfm is not defined
+JavaScript error: https://www.ynet.co.il/home/0,7340,L-8,00.html, line 3: ReferenceError: osdlfm is not defined
+JavaScript error: https://www.ynet.co.il/home/0,7340,L-8,00.html, line 1: ReferenceError: osdlfm is not defined
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1611600219389	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1611600219390	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://www.ynet.co.il/home/0,7340,L-8,00.html, line 1: ReferenceError: osdlfm is not defined
+JavaScript error: https://www.ynet.co.il/home/0,7340,L-8,00.html, line 1: ReferenceError: osdlfm is not defined
+JavaScript error: https://www.ynet.co.il/home/0,7340,L-8,00.html, line 3: ReferenceError: osdlfm is not defined
+JavaScript error: https://www.ynet.co.il/home/0,7340,L-8,00.html, line 1: ReferenceError: osdlfm is not defined
+1611600223728	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611600291179	Marionette	INFO	Stopped listening on port 62515
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611600301210	geckodriver	INFO	Listening on 127.0.0.1:63476
+1611600302240	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qz/x4tq3l3d4750dsmvlvk9kt440000gn/T/rust_mozprofile5FbZyu"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611600305209	Marionette	INFO	Listening on port 63506
+1611600305285	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: Image (https://ad.doubleclick.net/favicon.ico?ad=300x250&ad_box_=1&adnet=1&showad=1&size=250x250) wait timeout: did not return within 800ms
+JavaScript error: https://middycdn-a.akamaihd.net/sd/apps/middy/middy-desktop-3.0.23.js, line 1: TypeError: window.adblockDetector is undefined
+1611600320676	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1611600320677	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1611600320684	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1611600320686	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://www.ynet.co.il/home/0,7340,L-8,00.html, line 1: ReferenceError: osdlfm is not defined
+JavaScript error: https://www.ynet.co.il/home/0,7340,L-8,00.html, line 1: ReferenceError: osdlfm is not defined
+JavaScript error: https://www.ynet.co.il/home/0,7340,L-8,00.html, line 3: ReferenceError: osdlfm is not defined
+JavaScript error: https://www.ynet.co.il/home/0,7340,L-8,00.html, line 1: ReferenceError: osdlfm is not defined
+1611600325085	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611600385704	Marionette	INFO	Stopped listening on port 63506
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611600396115	geckodriver	INFO	Listening on 127.0.0.1:64484
+1611600397135	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qz/x4tq3l3d4750dsmvlvk9kt440000gn/T/rust_mozprofilesxehNK"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611600400866	Marionette	INFO	Listening on port 64509
+1611600400982	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: Image (https://ad.doubleclick.net/favicon.ico?ad=300x250&ad_box_=1&adnet=1&showad=1&size=250x250) wait timeout: did not return within 800ms
+JavaScript error: https://ecdn.firstimpression.io/static/sw/tracking-sw-index.html, line 46: TypeError: navigator.serviceWorker.controller is null
+1611600406944	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1611600406954	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1611600406954	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://www.ynet.co.il/home/0,7340,L-8,00.html, line 1: ReferenceError: osdlfm is not defined
+JavaScript error: https://www.ynet.co.il/home/0,7340,L-8,00.html, line 1: ReferenceError: osdlfm is not defined
+JavaScript error: https://www.ynet.co.il/home/0,7340,L-8,00.html, line 3: ReferenceError: osdlfm is not defined
+JavaScript error: https://www.ynet.co.il/home/0,7340,L-8,00.html, line 1: ReferenceError: osdlfm is not defined
+1611600420509	Marionette	INFO	Stopped listening on port 64509
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611600700435	geckodriver	INFO	Listening on 127.0.0.1:50157
+1611600701446	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qz/x4tq3l3d4750dsmvlvk9kt440000gn/T/rust_mozprofile0G5oxf"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611600704668	Marionette	INFO	Listening on port 50188
+1611600704723	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: Image (https://ad.doubleclick.net/favicon.ico?ad=300x250&ad_box_=1&adnet=1&showad=1&size=250x250) wait timeout: did not return within 800ms
+JavaScript error: https://ecdn.firstimpression.io/static/sw/tracking-sw-index.html, line 46: TypeError: navigator.serviceWorker.controller is null
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-01-25, line 1: Error: TypeError: Network request timed out
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-01-25, line 1: Error: TypeError: Network request timed out
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-01-25, line 1: Error: TypeError: Network request timed out
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-01-25, line 1: Error: TypeError: Network request timed out
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.permutive.com/fe68d1f7-c9f4-45b3-8905-7cda73d3fd74-web.js?d=2021-01-25, line 1: Error: TypeError: Network request timed out
+1611600733865	Marionette	INFO	Stopped listening on port 50188
+JavaScript error: https://middycdn-a.akamaihd.net/sd/apps/middy/middy-desktop-3.0.23.js, line 1: TypeError: window.adblockDetector is undefined
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0144,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0144,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0144,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0144,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x6C0016,name=PNecko::Msg_PredLearn) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0144,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0144,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611600856731	geckodriver	INFO	Listening on 127.0.0.1:51435
+1611600857745	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/qz/x4tq3l3d4750dsmvlvk9kt440000gn/T/rust_mozprofileeUMTDH"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611600860581	Marionette	INFO	Listening on port 51466
+1611600860661	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: Image (https://ad.doubleclick.net/favicon.ico?ad=300x250&ad_box_=1&adnet=1&showad=1&size=250x250) wait timeout: did not return within 800ms
+JavaScript error: , line 0: uncaught exception: undefined
+1611600875785	Marionette	INFO	Stopped listening on port 51466
+JavaScript error: https://middycdn-a.akamaihd.net/sd/apps/middy/middy-desktop-3.0.23.js, line 1: TypeError: window.adblockDetector is undefined
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-T6Q59G, line 757: NS_ERROR_NOT_INITIALIZED: 
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+

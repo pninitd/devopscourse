@@ -1,0 +1,296 @@
+
+
+# 1
+build command:
+echo pninit > /Users/pninitds/Desktop/name.txt
+
+Console output:
+Started by user pninit dvir
+Running as SYSTEM
+Building on master in workspace /Users/pninitds/.jenkins/workspace/lesson_6/ex1
+[ex1] $ /bin/sh -xe /var/folders/qz/x4tq3l3d4750dsmvlvk9kt440000gn/T/jenkins989416489686725308.sh
++ echo pninit
+Finished: SUCCESS
+
+# 2
+Console output:
+Started by user pninit dvir
+Running as SYSTEM
+Building on master in workspace /Users/pninitds/.jenkins/workspace/lesson_6/ex2
+[ex2] $ /bin/sh -xe /var/folders/qz/x4tq3l3d4750dsmvlvk9kt440000gn/T/jenkins7343438355854932670.sh
++ cat /Users/pninitds/Desktop/name.txt
+pninit
+Finished: SUCCESS
+
+# 3
+Console output:
+Started by user pninit dvir
+Running as SYSTEM
+Building on master in workspace /Users/pninitds/.jenkins/workspace/lesson_6/ex3
+[ex3] $ /bin/sh -xe /var/folders/qz/x4tq3l3d4750dsmvlvk9kt440000gn/T/jenkins7132258426801539516.sh
++ df -h
+Filesystem      Size   Used  Avail Capacity     iused      ifree %iused  Mounted on
+/dev/disk1s5   233Gi   11Gi   24Gi    31%      488499 2447612821    0%   /
+devfs          234Ki  234Ki    0Bi   100%         812          0  100%   /dev
+/dev/disk1s1   233Gi  185Gi   24Gi    89%     1920445 2446180875    0%   /System/Volumes/Data
+/dev/disk1s4   233Gi   13Gi   24Gi    35%          14 2448101306    0%   /private/var/vm
+map auto_home    0Bi    0Bi    0Bi   100%           0          0  100%   /System/Volumes/Data/home
+/dev/disk2s3   367Mi  360Mi  6.6Mi    99%         155 4294967124    0%   /Volumes/Firefox
+drivefs        233Gi  210Gi   23Gi    91% 18446744069414586989 4294967295 691407199003545216%   /Volumes/GoogleDrive
+/dev/disk1s3   233Gi  504Mi   24Gi     2%          56 2448101264    0%   /Volumes/Recovery
+Finished: SUCCESS
+
+# 4
+Console output:
+Started by user pninit dvir
+Running as SYSTEM
+Building on master in workspace /Users/pninitds/.jenkins/workspace/lesson_6/ex4
+[ex4] $ /bin/sh -xe /var/folders/qz/x4tq3l3d4750dsmvlvk9kt440000gn/T/jenkins390899243947896645.sh
++ mv /Users/pninitds/Desktop/name.txt /Users/pninitds/Downloads/
+Finished: SUCCESS
+
+# 5
+
+cron: 0 8 * * *
+
+Console output:
+Started by timer
+Running as SYSTEM
+Building on master in workspace /Users/pninitds/.jenkins/workspace/lesson_6/ex5
+Finished: SUCCESS
+
+
+# 6
+script:
+pipeline {
+ agent any
+ stages {
+  stage("ex1") {
+   steps {
+       sh 'echo pninit > /Users/pninitds/Desktop/name.txt'
+   }
+  }
+   stage("ex2") {
+    steps {
+       sh 'cat /Users/pninitds/Desktop/name.txt'
+    }
+   }
+   stage("ex3") {
+    steps {
+        sh 'df -h'
+    }
+   }
+   stage("ex4") {
+    steps {
+        sh 'mv /Users/pninitds/Desktop/name.txt /Users/pninitds/Downloads/'
+    }
+  }
+ }
+}
+
+
+Console output:
+Started by user pninit dvir
+Running in Durability level: MAX_SURVIVABILITY
+[Pipeline] Start of Pipeline
+[Pipeline] node
+Running on Jenkins in /Users/pninitds/.jenkins/workspace/lesson_6/ex6
+[Pipeline] {
+[Pipeline] stage
+[Pipeline] { (ex1)
+[Pipeline] sh
++ echo pninit
+[Pipeline] }
+[Pipeline] // stage
+[Pipeline] stage
+[Pipeline] { (ex2)
+[Pipeline] sh
++ cat /Users/pninitds/Desktop/name.txt
+pninit
+[Pipeline] }
+[Pipeline] // stage
+[Pipeline] stage
+[Pipeline] { (ex3)
+[Pipeline] sh
++ df -h
+Filesystem      Size   Used  Avail Capacity     iused      ifree %iused  Mounted on
+/dev/disk1s5   233Gi   11Gi   21Gi    34%      488499 2447612821    0%   /
+devfs          234Ki  234Ki    0Bi   100%         808          0  100%   /dev
+/dev/disk1s1   233Gi  185Gi   21Gi    90%     1921197 2446180123    0%   /System/Volumes/Data
+/dev/disk1s4   233Gi   16Gi   21Gi    43%          17 2448101303    0%   /private/var/vm
+map auto_home    0Bi    0Bi    0Bi   100%           0          0  100%   /System/Volumes/Data/home
+/dev/disk2s3   367Mi  360Mi  6.6Mi    99%         155 4294967124    0%   /Volumes/Firefox
+drivefs        233Gi  213Gi   20Gi    92% 18446744069414586989 4294967295 691407199003545216%   /Volumes/GoogleDrive
+/dev/disk1s3   233Gi  504Mi   21Gi     3%          56 2448101264    0%   /Volumes/Recovery
+[Pipeline] }
+[Pipeline] // stage
+[Pipeline] stage
+[Pipeline] { (ex4)
+[Pipeline] sh
++ mv /Users/pninitds/Desktop/name.txt /Users/pninitds/Downloads/
+[Pipeline] }
+[Pipeline] // stage
+[Pipeline] }
+[Pipeline] // node
+[Pipeline] End of Pipeline
+Finished: SUCCESS
+
+***** another option for ex6: *****
+script:
+pipeline {
+ agent any
+ stages {
+  stage("ex1") {
+   steps {
+       build 'ex1'
+   }
+  }
+   stage("ex2") {
+    steps {
+       build 'ex2'
+    }
+   }
+   stage("ex3") {
+    steps {
+        build 'ex3'
+    }
+   }
+   stage("ex4") {
+    steps {
+        build 'ex4'
+    }
+  }
+ }
+}
+
+
+Console output:
+Started by user pninit dvir
+Replayed #1
+Running in Durability level: MAX_SURVIVABILITY
+[Pipeline] Start of Pipeline
+[Pipeline] node
+Running on Jenkins in /Users/pninitds/.jenkins/workspace/lesson_6/ex6
+[Pipeline] {
+[Pipeline] stage
+[Pipeline] { (ex1)
+[Pipeline] build (Building lesson_6 » ex1)
+Scheduling project: lesson_6 » ex1
+Starting building: lesson_6 » ex1 #4
+[Pipeline] }
+[Pipeline] // stage
+[Pipeline] stage
+[Pipeline] { (ex2)
+[Pipeline] build (Building lesson_6 » ex2)
+Scheduling project: lesson_6 » ex2
+Starting building: lesson_6 » ex2 #2
+[Pipeline] }
+[Pipeline] // stage
+[Pipeline] stage
+[Pipeline] { (ex3)
+[Pipeline] build (Building lesson_6 » ex3)
+Scheduling project: lesson_6 » ex3
+Starting building: lesson_6 » ex3 #2
+[Pipeline] }
+[Pipeline] // stage
+[Pipeline] stage
+[Pipeline] { (ex4)
+[Pipeline] build (Building lesson_6 » ex4)
+Scheduling project: lesson_6 » ex4
+Starting building: lesson_6 » ex4 #2
+[Pipeline] }
+[Pipeline] // stage
+[Pipeline] }
+[Pipeline] // node
+[Pipeline] End of Pipeline
+Finished: SUCCESS
+
+
+# 7
+script:
+pipeline {
+ agent any
+ stages {
+  stage("test") {
+   steps {
+       dir("/Users/pninitds/PycharmProjects/devopscourse/lesson4_Jan24"){
+         sh 'python lesson4_1_selenium.py'
+       }
+   }
+  }
+ }
+}
+
+Console output:
+Started by user pninit dvir
+Replayed #2
+Running in Durability level: MAX_SURVIVABILITY
+[Pipeline] Start of Pipeline
+[Pipeline] node
+Running on Jenkins in /Users/pninitds/.jenkins/workspace/lesson_6/ex7
+[Pipeline] {
+[Pipeline] stage
+[Pipeline] { (test)
+[Pipeline] dir
+Running in /Users/pninitds/PycharmProjects/devopscourse/lesson4_Jan24
+[Pipeline] {
+[Pipeline] sh
++ python lesson4_1_selenium.py
+https://translate.google.com/
+Google Translate
+1
+off
+[Pipeline] }
+[Pipeline] // dir
+[Pipeline] }
+[Pipeline] // stage
+[Pipeline] }
+[Pipeline] // node
+[Pipeline] End of Pipeline
+Finished: SUCCESS
+
+# 8 - challenge
+script:
+pipeline {
+ agent any
+ stages {
+  stage("ex1") {
+   steps {
+       build 'ex1'
+   }
+  }
+ }
+ post {
+  always {
+   build 'ex2'
+  }
+ }
+}
+
+
+Console output:
+Started by user pninit dvir
+Replayed #1
+Running in Durability level: MAX_SURVIVABILITY
+[Pipeline] Start of Pipeline
+[Pipeline] node
+Running on Jenkins in /Users/pninitds/.jenkins/workspace/lesson_6/ex8
+[Pipeline] {
+[Pipeline] stage
+[Pipeline] { (ex1)
+[Pipeline] build (Building lesson_6 » ex1)
+Scheduling project: lesson_6 » ex1
+Starting building: lesson_6 » ex1 #7
+[Pipeline] }
+[Pipeline] // stage
+[Pipeline] stage
+[Pipeline] { (Declarative: Post Actions)
+[Pipeline] build (Building lesson_6 » ex2)
+Scheduling project: lesson_6 » ex2
+Starting building: lesson_6 » ex2 #3
+[Pipeline] }
+[Pipeline] // stage
+[Pipeline] }
+[Pipeline] // node
+[Pipeline] End of Pipeline
+Finished: SUCCESS
