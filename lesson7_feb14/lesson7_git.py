@@ -17,3 +17,6 @@ print(123)
 # git branch feature1
 # git branch
 # git checkout feature1 (gc)
+
+# git checkout master (return back to master)
+
