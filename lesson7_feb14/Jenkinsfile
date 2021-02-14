@@ -1,0 +1,24 @@
+pipeline {
+    agent any
+    stages {
+        stage('checkout') {
+            steps {
+                script {
+                    properties([pipelineTriggers([pollSCM('* * * * *')])])
+                }
+                git 'https://github.com/pninitd/devopscourse.git'
+            }
+        }
+        stage('run python') {
+            steps {
+                script {
+                    if (Boolean.valueOf(env.WIN)) {
+                        bat 'lesson7_feb14/lesson7_git.py'                
+                    } else {
+                        sh 'lesson7_feb14/lesson7_git.py'
+                    }
+                }
+            }
+        }
+    }
+}
