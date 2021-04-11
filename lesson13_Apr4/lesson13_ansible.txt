@@ -1,0 +1,97 @@
+
+
+AWS: create ec2 ubunto18.4
+
+Mac: in Ansible-vagrant folder --> insert the public ipv4 in the hosts file and put the private.pem in key directory
+enter the vagrant via ssh: vagrant ssh
+and run:sudo mv /etc/ansible/keys/private.pem /etc/private.pem
+
+(vagrant plugin install vagrant-vbguest)
+
+chmod 400 /etc/private.pem
+
+check connection from local vm to the local mac folder: sudo ansible all -m ping
+
+define groups in host file: [group1]
+and check it: sudo ansible -m ping group1
+
+add name to the machines:
+server1 ansible_host=52.173.14.216 ansible_ssh....
+server2 ansible_host=52.168.14.216 ansible_ssh....
+
+
+variables:
+
+[us-east]
+host1
+host2
+
+[us-east:vars]
+ansible_ssh_user=ububtu
+(all hosts will get the same configuration)
+
+
+playbooks:
+Modules - small program that do some work
+Tasks -
+Handlers - called by task
+
+/etc/ansible/books$ sudo ansible-playbook pingbook.yaml
+
+
+sudo ansible all -m gather_facts --tree /tmp/facts
+
+tasks:
+    - name: "shout down Debian systems"
+    command: /sbin/shutdown -t now
+    when: ansible_facts['os_family'] == "Debian"
+
+tasks:
+    - name: "Ansible apt with_items example"
+      apt:
+        name: "{{item}}"
+        update_cache=true
+        state:present
+        with_items:
+        mc
+        bla
+
+Roles:
+sudo ansible-galaxy init nginx
+
+roles
+ rolename
+      - files
+      - handlers
+      - tasks
+      - default
+README.md  defaults  files  handlers  meta  tasks  templates  tests  vars
+
+cp /etc/ansible/sample/handlers/main.yml /etc/ansible/roles/nginx/handlers/main.yml
+cp /etc/ansible/sample/tasks/main.yml /etc/ansible/roles/nginx/tasks/main.yml
+cp /etc/ansible/sample/server.yml /etc/ansible/server.yml
+
+/etc/ansible$ sudo ansible-playbook server.yml
+
+ansible-vault encrypt secrets.txt
+cat secrets.txt
+ansible-vault decrypt secrets.txt
+ansible-vault edit secret.yml
+ansible-vault rekey secret.yml (change encryption password)
+ansible-vault view secret.yml
+
+
+ansible tower (gui) cost $$
+
+
+... | sed 's@(\.*\)'
+docker images | head | awk 'NR>1 {print $3}'
+echo "pninit" | rev
+head
+tr '[:lower:]' '[:upper:]'
+tr '6' '3' replace 6 with 3
+egrap -v
+aws ec2 describe_regions | jq -r '.Regions[].RegionName' --> return json
+
+
+

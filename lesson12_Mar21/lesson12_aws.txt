@@ -1,0 +1,38 @@
+AWS:
+connect to my new ec2:
+ssh -i Downloads/devops_ec2_aws_key.pem ubuntu@52.86.213.234
+
+if file is too open:
+chmod 400 Downloads/devops_ec2_aws_key.pem
+
+install docker on the new ec2
+https://docs.docker.com/engine/install/ubuntu/
+open security rule, add new tcp with 81 and anywhere and use url of the public ip:81
+
+AKIAXCTWPZDVMX5HEHZK
+lCvKxam2goRrY99ezj8ihlO/kaXXC2EOAbDkdvgD
+
+
+lambda:
+import json
+import boto3
+import datetime
+
+# event contains contains information from the invoking service
+# context provides methods and properties that provide information about the invocation
+# Boto3 is the Amazon Web Services (AWS) Software Development Kit (SDK) for Python
+
+def lambda_handler(event, context):
+    string = "Hello Lambda"
+    encoded_string = string.encode("utf-8")
+    bucket_name = "mybucket-pninit"
+    file_name = 'my_file.txt'
+    s3_path = "/" + str(datetime.datetime.now()) + "/" + file_name
+
+
+    s3 = boto3.resource("s3")
+    s3.Bucket(bucket_name).put_object(Key=s3_path, Body=encoded_string)
+    return {
+        'statusCode': 200,
+        'body': json.dumps('file is created in:'+s3_path)
+    }

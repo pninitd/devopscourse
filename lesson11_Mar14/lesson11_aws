@@ -1,0 +1,12 @@
+ECS is like k8s. replacement that build in aws language
+
+EKS - elastic kubernetes service - start
+
+ECR - elastic container registry - like docker hub. private by default.
+
+GCR - Google container registry (like ECR/docker hub)
+
+GKE - Google k8s engine
+
+ACR (Azure container registry)
+

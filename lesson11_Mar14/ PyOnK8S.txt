@@ -1,0 +1,16 @@
+https://github.com/Dgotlieb/PyOnK8S.git
+
+we stared the flask image with apply (4 posd replication)
+than started the loadbalancer to this service
+than expose the LB url
+than open in chrome the url and get into end point
+the yml files can be the values in the helm template.
+
+
+# open kube-apiserver for do checks on the cluster
+kubectl proxy --port=8080
+and than go to url: http://127.0.0.1:8080/api/v1/services (get running services)
+and than go to url: http://127.0.0.1:8080/api/v1/pods (get all pods)
+or http://127.0.0.1:8080/api/v1/namespace/default/pods
+or http://127.0.0.1:8080/api/v1/namespace/default/pods/<pod name>
+

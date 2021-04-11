@@ -1,0 +1,34 @@
+docker compose
+yaml - yamllint.com
+
+example:
+version: '3'
+services:
+  web:
+    build: . (create an image with the docker file that exist in the folder)
+    ports:
+     - "5000:5000" (array)
+  redis: (go to hub get image run container, name will be redis)
+    image: "redis:alpine"
+
+
+docker-compose up --build
+docker-compose up -d (in background)
+docker-compose up web (will run only specific service)
+docker-compose stop (stop container)
+docker-compose down (remove networks, images, volumes, containers)
+
+
+***
+in docker file: instead of "pip install"
+we can use pip install -r.file txt and have a list of all installation (flask,redi..)
+***
+
+.env file
+IMAGE_TAG=1
+
+in yml file:
+image: "mysql:${IMAGE_TAG}"
+
+
+

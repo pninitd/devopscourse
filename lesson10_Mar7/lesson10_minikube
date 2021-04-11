@@ -1,0 +1,86 @@
+kubernetes
+- container run time environments (dockers)
+
+minikube - single node k8s cluster (to run local)
+kubectl - commands to cube api server (api to muster)
+
+minikube start
+minikube dashboard (http://127.0.0.1:55324/api/v1/namespaces/kubernetes-dashboard/services/http:kubernetes-dashboard:/proxy/)
+minikube stop/delete
+
+on node running 3 things:
+1. kubelet (controller that running pods)
+2. container runtime (docker)
+3. kube proxy (connections)
+
+pod
+replicasets - maintain and build pods replications
+service - have few pods, dns , so frontend will have dnsname to call the backend without using ips
+
+object spec (desired) and status(actual)
+yml file:
+- apiversion - all object have version id
+- kind - what object to create
+- metadata - details about the object
+- spec - description of the desired state
+
+# Create the deployment
+kubectl apply -f deployment.yml
+
+
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: nginx-deployment
+spec:
+  selector:
+    matchLabels:
+      app: nginx
+  replicas: 2
+  template:
+    metadata:
+      labels:
+        app: nginx
+    spec:
+      containers:
+      - name: nginx
+        image: nginx:1.19.5
+        ports:
+        - containerPort: 80
+
+# View all deplyments
+$ kubectl get deployments
+
+# Update a deployment
+$ kubectl --record deployment.apps/nginx-deployment set image deployment.v1.apps/nginx-deployment nginx=nginx:1.19.6
+
+# Check version changed using:
+$ kubectl describe deployment nginx-deployment
+
+# Revert an update
+$ kubectl rollout undo deployment.v1.apps/nginx-deployment
+
+# Expose the Nginx deployment using load balalncer service
+$ kubectl expose deployment nginx-deployment --port=80 --type=LoadBalancer
+
+# Get the service URL
+$ minikube service nginx-deployment --url
+
+# Get apps logs
+kubectl logs -l app=nginx
+
+* etcd - the k8s db, all api calls saved there
+* kubelet - agent run on each node and give status
+
+
+# write the command into yml file
+--dry-run=client -o=yaml > service.yaml 
+kubectl expose pod/superset --port 8088 --type LoadBalancer --dry-run=client -o=yaml > service.yaml 
+
+
+
+
+
+
+
+

@@ -1,0 +1,47 @@
+docker file
+docker file --> image --> container
+docker == single process
+
+Example:
+https://github.com/Dgotlieb/Docker
+FROM python:3 //tells docker which image you base your image on
+COPY my_script.py / //add the py file to the dockerfile
+CMD ["pythone", "./my_script.py"] // tels docker to excecute the command when the image loads
+
+docker file commands: FROM, CMD, VOLUME, ENV, ADD, COPY (preferred over add), RUN , EXPOSE (port, default is tcp)
+VOLUME- creates amount point  VOLUME ./usr/app
+WORKDIR /usr/app
+CMD can be only one!! will take the last one
+every command is a layer
+
+
+commands:
+docker --version
+docker pull <image_name> //pull images from repository hub.docker.com
+docker run <image_name> // create a container
+docker run --name <my_container> <image_name> //give name to the container
+docker run -p 81:80 <image_name> //publish, bind port 80 in the container to port 81 on the host system
+docker run -d test //run in background
+docker build -t <name> <path to docker file> .  //create the image from the dockerfile (dont forget the dot in the end)
+docker images // show existing images
+docker rm < container id/name> //delete stopped container
+docker rmi <image id/name> // delete an image from local storage
+docker push <username/image name> // build image and push to docker hub
+docker ps //show list of running containers
+docker ps -a //show list of *all* containers
+
+docker exec -it <container id> bash //access a running container: terminal and STDIN
+docker exec -it <container_name> sh //will enter to command line
+exit //exit bash
+start/stop
+
+https://github.com/Dgotlieb/DockerFlask
+docker run -v $(pwd)/logs:/app/logs -d -p 5000:5000 myflask
+
+volumes: (mount)
+docker volume ls // see all my volumes
+docker run -d --name my_test -v myvol2:/app:ro \
+docker run -d --name my_test -v myvol2:/app \home
+docker run --rm -v .. \\ remove volume when stop
+
+

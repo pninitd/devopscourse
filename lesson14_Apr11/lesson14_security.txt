@@ -1,0 +1,19 @@
+
+security analysis for the python code
+
+run in consul:
+pip install bandit
+bandit -f html -r lesson14_Apr11 -o main.html #folder name with .py to scan
+
+
+second tool
+safety:
+1. pip install safety
+2. create requierments.txt file with django==1.2.0
+3. run: safety check -r requierments.txt --json
+
+
+tool OWASP - open web application security project
+https://owasp.org/www-project-top-ten/
+
+

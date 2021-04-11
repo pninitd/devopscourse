@@ -1,0 +1,44 @@
+Helm
+*** https://github.com/Dgotlieb/K8S-HELM/blob/master/commands
+
+# add “stable” repository
+$ helm repo add stable https://charts.helm.sh/stable
+
+# sync all helm charts info.
+$ helm repo update
+
+# By default helm uses stable repo, we can see which repos are available using list.
+$ helm repo list
+
+# show you a list of all deployed releases.
+$ helm list
+
+-----------------------------------------------
+
+# add bitnami repo as a chart repository:
+$ helm repo add bitnami https://charts.bitnami.com/bitnami
+
+# Get Apache chart:
+$ helm install my-release bitnami/apache
+
+# Get our server IP address using:
+$ minikube service my-release-apache --url > k8s_url.txt
+
+# Clean up
+$ helm delete my-release
+
+-----------------------------------------------
+# Create a chart
+$ helm create mychart
+
+# dry run
+$ helm install mychart --dry-run --debug mychart
+
+# package a chart tgz
+$ helm package mychart
+
+# Upgrade a chart
+$ helm upgrade --install mychart mychart-0.1.0.tgz --set replicaCount=3
+(11 in project4)
+
+# to modify template value we can use set flag
