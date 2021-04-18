@@ -9,8 +9,8 @@ install docker on the new ec2
 https://docs.docker.com/engine/install/ubuntu/
 open security rule, add new tcp with 81 and anywhere and use url of the public ip:81
 
-AKIAXCTWPZDVMX5HEHZK
-lCvKxam2goRrY99ezj8ihlO/kaXXC2EOAbDkdvgD
+AKIAXCTW...
+lCvKxam2g...
 
 
 lambda:
