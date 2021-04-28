@@ -1,0 +1,6 @@
+
+#9:
+conflicts are when two separate branches have made edits to the same line in a file, or when a file has been deleted in one branch but edited in the other.
+to solve it- choose which changes to incorporate from the different branches in a new commit.
+
+#10:

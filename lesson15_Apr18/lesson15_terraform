@@ -1,0 +1,23 @@
+terraform –v
+
+
+create new user --> copy access key/private
+change the keys in: https://github.com/Dgotlieb/SimpleTerraform
+
+ami - choose ubuntu apt from ec2 instances ui
+
+1. run terraform init    from the project
+2. run  terraform plan (just validate)
+3. run terraform apply
+
+this will create user group and ec2 with nginx
+if not getting the ec2 ip run "terraform destroy" without pressing yes and ip should be printed
+or get the ip from aws dashboard.
+brows the ip and see nginx, no ssh since port 22 is close and no keys.
+
+from aws ui -> create key pair
+
+at the end run: terraform destroy
+
+
+
